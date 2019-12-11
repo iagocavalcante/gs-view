@@ -11,7 +11,7 @@
     "bootstrap": "4.4.1",
     "vue": "2.6.10",
     "vue-nav-tabs": "0.5.7",
-    "yarn": "1.21.0"
+    "yarn": "1.21.1"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "4.1.1",
